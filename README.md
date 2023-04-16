@@ -15,6 +15,6 @@ To deploy changes to the website:
 	- bash deploy.sh
 
 The `deploy.sh` script will mirror the website files in this github
-project to /var/www locally assuming that apache serves pages out of
-/var/www.
+project to `/var/www` locally assuming that apache serves pages out of
+`/var/www`.
 
