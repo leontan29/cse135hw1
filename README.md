@@ -18,3 +18,12 @@ The `deploy.sh` script will mirror the website files in this github
 project to `/var/www` locally assuming that apache serves pages out of
 `/var/www`.
 
+
+Password
+--
+
+To access the site:
+
+	- username: myta
+	- password: hellothere
+
